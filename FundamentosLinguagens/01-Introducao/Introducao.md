@@ -21,7 +21,7 @@ Este material apresenta uma introdução às linguagens de programação, com fo
 | 2000 | **C#**         | Criada pela Microsoft, parte do ecossistema .NET.                                     |
 | 2009 | **Go**         | Desenvolvida pelo Google, foca em desempenho e simplicidade.                          |
 | 2014 | **Swift**      | Linguagem moderna para desenvolvimento Apple (iOS/macOS).                             |
-| 2020 | **Rust**       | Foco em segurança de memória e performance, ganhando adoção em sistemas.              |
+| 2014 | **Rust**       | Foco em segurança de memória e performance, ganhando adoção em sistemas.              |
 
 ---
 
