@@ -25,7 +25,7 @@ Este material apresenta uma introdução às linguagens de programação, com fo
 
 ---
 
-![alt text](<Image 15 de mai. de 2025, 15_12_14.png>)
+![alt text](linguagens.png)
 
 # 🔎 Informações Adicionais
 
